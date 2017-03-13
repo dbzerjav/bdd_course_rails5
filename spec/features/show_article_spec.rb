@@ -31,7 +31,7 @@ RSpec.feature "Showing an article" do
     expect(page).not_to have_link("Delete Article")
   end
   
-  scenario "A signed in owner sees both links" do 
+  scenario "to a signed in owner who sees both links" do 
     login_as(@john)
     visit "/"
     click_link @article.title
