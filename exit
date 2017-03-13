@@ -1,0 +1,125 @@
+[33mcommit 72653d6bc99ae35b96b87aed6f052febb81ca2e5[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Sat Mar 11 02:59:14 2017 +0000
+
+    Setup sign out
+
+[33mcommit 67aea9e8fae9edd92e62192a40139fb56a4be924[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Sat Mar 11 02:11:38 2017 +0000
+
+    Sytle devise and refactor
+
+[33mcommit ff939481cbb5789a149f3182f32a4a396b87d89d[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Sat Mar 11 01:45:53 2017 +0000
+
+    Set up user sign in
+
+[33mcommit 54e988ba09d6f6f54d2c2242a52ac8e2ed9e12f8[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Sat Mar 11 00:41:09 2017 +0000
+
+    Style devise signup view template
+
+[33mcommit 90467cad94fd63340ed46926d746ed701f213da6[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Sat Mar 11 00:11:51 2017 +0000
+
+    set up user sign up
+
+[33mcommit d5f560f7b5addaf8c5c04f1530b4c87d8d6602d7[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 22:41:34 2017 +0000
+
+    Setup devise
+
+[33mcommit c5017cdf735a848cbeba2a9515de4a17ff35cef5[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 21:10:42 2017 +0000
+
+    Refactor new and edit forms
+
+[33mcommit d5c89439834c20927e7e1a2c88149e564d25232b[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 21:03:56 2017 +0000
+
+    Implementing delete article
+
+[33mcommit 57e3e36743b65c403c3a89dac44c6fe47dd1ea1c[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 19:50:41 2017 +0000
+
+    Implement edit article feature
+
+[33mcommit 6017bf109a6f230a71fe55f12a550d142c88b3cc[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 19:30:16 2017 +0000
+
+    Handle article not found error
+
+[33mcommit 534de27980464b41c32cc041be1770810f70a1b5[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 19:03:59 2017 +0000
+
+    Implement showing article details
+
+[33mcommit 06fb053ce77e3129950e11a05d32425da41388f7[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 18:47:12 2017 +0000
+
+    imlement display of message when no articles present
+
+[33mcommit a25a8a6d18a8800e59f380c99098735ce0338cdc[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 18:15:21 2017 +0000
+
+    implement listing articles
+
+[33mcommit c893f5d94d5531b6101343f62b30ae1ec586ec90[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 17:52:45 2017 +0000
+
+    Add flash.now to article create failure path
+
+[33mcommit bb7aac9a96f0a677346115001b667481d02bf1b4[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 17:41:57 2017 +0000
+
+    add validations to article
+
+[33mcommit 6b74be47ce09098bc928259c8e5e26066fc30352[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 04:40:19 2017 +0000
+
+    add guard
+
+[33mcommit a3823cf4f03b3b9f5666a274abc10842a9712dd9[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 04:26:44 2017 +0000
+
+    setup bootstrap
+
+[33mcommit c2856ef91a397b39d1553aecc9a6f651238cdde6[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Fri Mar 10 03:54:34 2017 +0000
+
+    create article successfully
+
+[33mcommit 517ee7950f11549b01cfd5d44f6922bfa7792dda[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Thu Mar 9 20:33:32 2017 +0000
+
+    setup rspec and capybara
+
+[33mcommit 27e83e6ebb39d8c37c4788b2dcee2eefc354d8af[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Thu Mar 9 20:14:26 2017 +0000
+
+    edited readme file
+
+[33mcommit cbd7b54152e796624c7c06ef1854a0cb80edce9b[m
+Author: dbzerjav <dbzerjav@gmail.com>
+Date:   Thu Mar 9 19:37:02 2017 +0000
+
+    initiate blog app
